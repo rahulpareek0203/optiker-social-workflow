@@ -1,0 +1,59 @@
+Wochenübersicht 2026-W47 – Optik Lindner (fiktiv)
+Erstellt: 2026-11-11 22:56 UTC
+
+Hinweis: Prototyp. Texte stammen aus festen Testantworten (simuliert). Übergaben sind
+simuliert, es wurde nichts veröffentlicht und diese Übersicht wurde nicht versendet.
+
+THEMENAUSWAHL (Punkte: +2 saisonaler Anlass, +1 je Inspirationsfund)
+  1. T1 Sicher Auto fahren in der Dämmerung: Blendung reduzieren: 2 + 2 = 4 Punkte -> Priorität 2026-W47-01
+  2. T6 Adventsaktion: kostenloser Brillen-Check: 2 + 0 = 2 Punkte -> Priorität 2026-W47-02
+  3. T2 Arbeitsplatzbrille: entspannter sehen am Bildschirm: 0 + 1 = 1 Punkte -> Priorität 2026-W47-03
+  4. T3 Blick in die Werkstatt: So wird ein Glas eingeschliffen: 0 + 1 = 1 Punkte -> Reserve 2026-W47-04
+  5. T5 Kurztipp: Brille richtig reinigen: 0 + 1 = 1 Punkte -> Reserve 2026-W47-05
+  6. T4 Sehtest bei Kindern: Woran Eltern Sehprobleme erkennen: 0 + 0 = 0 Punkte -> nicht ausgewählt
+  7. T7 Unser Team stellt sich vor: 0 + 0 = 0 Punkte -> nicht ausgewählt
+  Bei Punktgleichheit entscheidet die Reihenfolge der Eingabe. Umplanungen siehe unten.
+
+KAPAZITÄTSPRÜFUNG (nur Prioritäten, das Budget wird nie erhöht)
+  1. Erster Entwurf (vor der Umplanung)
+    Person A: 50 von 90 Min. (2026-W47-02 50), 40 Min. frei
+    Person B: 155 von 150 Min. (2026-W47-01 85 + 2026-W47-03 70) – ÜBERLASTET (5 Min. zu viel)
+  WARNUNG: Person B ist mit 155 von 150 Minuten verplant (5 Minuten zu viel). Das Budget wird nicht erhöht.
+  UMPLANUNG: 2026-W47-03 („Arbeitsplatzbrille: entspannter sehen am Bildschirm“, 70 Min.) zur Reserve zurückgestuft; 2026-W47-05 („Kurztipp: Brille richtig reinigen“, 30 Min.) rückt für Person B nach. Keine andere Person hatte genug freie Zeit.
+  2. Nach der Umplanung (endgültig)
+    Person A: 50 von 90 Min. (2026-W47-02 50), 40 Min. frei
+    Person B: 115 von 150 Min. (2026-W47-01 85 + 2026-W47-05 30), 35 Min. frei
+
+WOCHENPLAN
+Prioritäten:
+  2026-W47-01  Di 17.11.  Sicher Auto fahren in der Dämmerung: Blendung reduzieren
+      reel auf instagram, facebook | Person B | 85 Min. | Status: geplant
+      Begründung: passt zum saisonalen Anlass „Dunkle Jahreszeit und Advent“; 2 Einzelfunde – Hinweis, aber kein bestätigter Trend (sim-tiktok-0001, sim-ig-0042); Zielgruppe: Berufspendler (30-55 Jahre); Reichweite der Funde: unbekannt
+  2026-W47-02  Do 19.11.  Adventsaktion: kostenloser Brillen-Check
+      image auf instagram, facebook | Person A | 50 Min. | Status: geplant
+      Begründung: passt zum saisonalen Anlass „Dunkle Jahreszeit und Advent“; Keine Inspirationsfunde; Zielgruppe: Bestandskundschaft; Reichweite der Funde: unbekannt
+  2026-W47-05  Sa 21.11.  Kurztipp: Brille richtig reinigen
+      story auf instagram | Person B | 30 Min. | Status: geplant
+      Begründung: Einzelfund – kein bestätigter Trend (sim-tiktok-0019); Zielgruppe: Bestandskundschaft; Reichweite der Funde: 950; Umplanung: als kleinere Alternative nachgerückt (30 Min.)
+Reserven:
+  2026-W47-03  Fr 20.11.  Arbeitsplatzbrille: entspannter sehen am Bildschirm
+      carousel auf linkedin, facebook | Person B | 70 Min. | Status: reserve
+      Begründung: Einzelfund – kein bestätigter Trend (sim-li-0007); Zielgruppe: Menschen mit viel Bildschirmarbeit; Reichweite der Funde: unbekannt; Umplanung: wegen Kapazität zur Reserve zurückgestuft
+  2026-W47-04  Mi 18.11.  Blick in die Werkstatt: So wird ein Glas eingeschliffen
+      reel auf instagram, tiktok | Person A | 85 Min. | Status: reserve
+      Begründung: Einzelfund – kein bestätigter Trend (sim-ig-0051); Zielgruppe: Bestandskundschaft; Reichweite der Funde: unbekannt
+
+BRIEFING
+  Vollständiges Produktionsbriefing für 2026-W47-01 („Sicher Auto fahren in der Dämmerung: Blendung reduzieren“) in briefing.md.
+
+FREIGABE UND ÜBERGABE
+  post-2026-W47-01 [Übergeben] Sicher Auto fahren in der Dämmerung: Blendung reduzieren
+      Diese Version wurde bereits übergeben – keine erneute Übergabe
+  post-2026-W47-02 [Zur Prüfung] Adventsaktion: kostenloser Brillen-Check
+      BLOCKIERT: Keine Freigabe vorhanden
+  post-2026-W47-05 [Freigegeben] Kurztipp: Brille richtig reinigen
+      BLOCKIERT: Medienreferenz fehlt
+  post-2026-W47-02: nach der Freigabe geändert – Freigabe aufgehoben, zurück in die Prüfung
+
+OFFEN
+  1 Beitrag/Beiträge warten auf Freigabe: post-2026-W47-02

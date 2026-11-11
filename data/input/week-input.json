@@ -1,0 +1,115 @@
+{
+  "week": "2026-W47",
+  "weekStart": "2026-11-16",
+  "brand": "Optik Lindner (fiktiv)",
+  "tone": "persönlich, freundlich, Ansprache mit Sie, Fachbegriffe kurz erklären, keine Heilversprechen",
+  "audiences": [
+    "Berufspendler (30-55 Jahre)",
+    "Menschen mit viel Bildschirmarbeit",
+    "Eltern von Schulkindern",
+    "Bestandskundschaft"
+  ],
+  "seasonalOccasion": "Dunkle Jahreszeit und Advent",
+  "people": [
+    { "id": "A", "name": "Person A", "minutesPerWeek": 90 },
+    { "id": "B", "name": "Person B", "minutesPerWeek": 150 }
+  ],
+  "topics": [
+    {
+      "id": "T1",
+      "title": "Sicher Auto fahren in der Dämmerung: Blendung reduzieren",
+      "audience": "Berufspendler (30-55 Jahre)",
+      "format": "reel",
+      "channels": ["instagram", "facebook"],
+      "seasonal": true
+    },
+    {
+      "id": "T2",
+      "title": "Arbeitsplatzbrille: entspannter sehen am Bildschirm",
+      "audience": "Menschen mit viel Bildschirmarbeit",
+      "format": "carousel",
+      "channels": ["linkedin", "facebook"]
+    },
+    {
+      "id": "T3",
+      "title": "Blick in die Werkstatt: So wird ein Glas eingeschliffen",
+      "audience": "Bestandskundschaft",
+      "format": "reel",
+      "channels": ["instagram", "tiktok"]
+    },
+    {
+      "id": "T4",
+      "title": "Sehtest bei Kindern: Woran Eltern Sehprobleme erkennen",
+      "audience": "Eltern von Schulkindern",
+      "format": "carousel",
+      "channels": ["instagram", "facebook"]
+    },
+    {
+      "id": "T5",
+      "title": "Kurztipp: Brille richtig reinigen",
+      "audience": "Bestandskundschaft",
+      "format": "story",
+      "channels": ["instagram"]
+    },
+    {
+      "id": "T6",
+      "title": "Adventsaktion: kostenloser Brillen-Check",
+      "audience": "Bestandskundschaft",
+      "format": "image",
+      "channels": ["instagram", "facebook"],
+      "seasonal": true
+    },
+    {
+      "id": "T7",
+      "title": "Unser Team stellt sich vor",
+      "audience": "Bestandskundschaft",
+      "format": "image",
+      "channels": ["linkedin"]
+    }
+  ],
+  "inspirationFinds": [
+    {
+      "id": "F1",
+      "channel": "tiktok",
+      "sourceId": "sim-tiktok-0001",
+      "topicId": "T1",
+      "note": "Kurzvideo über Blendung durch LED-Scheinwerfer",
+      "views": null
+    },
+    {
+      "id": "F2",
+      "channel": "instagram",
+      "sourceId": "sim-ig-0042",
+      "topicId": "T1",
+      "note": "Karussell mit Tipps zum Autofahren im Winter",
+      "views": 1800
+    },
+    {
+      "id": "F3",
+      "channel": "linkedin",
+      "sourceId": "sim-li-0007",
+      "topicId": "T2",
+      "note": "Beitrag über Augenbelastung im Homeoffice",
+      "views": null
+    },
+    {
+      "id": "F4",
+      "channel": "instagram",
+      "sourceId": "sim-ig-0051",
+      "topicId": "T3",
+      "note": "Werkstatt-Reel eines anderen (fiktiven) Handwerksbetriebs"
+    },
+    {
+      "id": "F5",
+      "channel": "tiktok",
+      "sourceId": "sim-tiktok-0019",
+      "topicId": "T5",
+      "note": "Clip: häufige Fehler beim Brillenputzen",
+      "views": 950
+    }
+  ],
+  "media": {
+    "T1": "media/2026-W47/blendung-reel-rohschnitt-v1.mp4",
+    "T6": "media/2026-W47/advent-brillencheck-v1.jpg"
+  }
+}

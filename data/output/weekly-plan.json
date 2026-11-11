@@ -1,0 +1,396 @@
+{
+  "week": "2026-W47",
+  "ranking": [
+    {
+      "rank": 1,
+      "topicId": "T1",
+      "title": "Sicher Auto fahren in der Dämmerung: Blendung reduzieren",
+      "seasonalPoints": 2,
+      "findPoints": 2,
+      "score": 4,
+      "ideaId": "2026-W47-01",
+      "initialRole": "priority"
+    },
+    {
+      "rank": 2,
+      "topicId": "T6",
+      "title": "Adventsaktion: kostenloser Brillen-Check",
+      "seasonalPoints": 2,
+      "findPoints": 0,
+      "score": 2,
+      "ideaId": "2026-W47-02",
+      "initialRole": "priority"
+    },
+    {
+      "rank": 3,
+      "topicId": "T2",
+      "title": "Arbeitsplatzbrille: entspannter sehen am Bildschirm",
+      "seasonalPoints": 0,
+      "findPoints": 1,
+      "score": 1,
+      "ideaId": "2026-W47-03",
+      "initialRole": "priority"
+    },
+    {
+      "rank": 4,
+      "topicId": "T3",
+      "title": "Blick in die Werkstatt: So wird ein Glas eingeschliffen",
+      "seasonalPoints": 0,
+      "findPoints": 1,
+      "score": 1,
+      "ideaId": "2026-W47-04",
+      "initialRole": "reserve"
+    },
+    {
+      "rank": 5,
+      "topicId": "T5",
+      "title": "Kurztipp: Brille richtig reinigen",
+      "seasonalPoints": 0,
+      "findPoints": 1,
+      "score": 1,
+      "ideaId": "2026-W47-05",
+      "initialRole": "reserve"
+    },
+    {
+      "rank": 6,
+      "topicId": "T4",
+      "title": "Sehtest bei Kindern: Woran Eltern Sehprobleme erkennen",
+      "seasonalPoints": 0,
+      "findPoints": 0,
+      "score": 0,
+      "ideaId": null,
+      "initialRole": null
+    },
+    {
+      "rank": 7,
+      "topicId": "T7",
+      "title": "Unser Team stellt sich vor",
+      "seasonalPoints": 0,
+      "findPoints": 0,
+      "score": 0,
+      "ideaId": null,
+      "initialRole": null
+    }
+  ],
+  "draft": [
+    {
+      "id": "2026-W47-01",
+      "topicId": "T1",
+      "topic": "Sicher Auto fahren in der Dämmerung: Blendung reduzieren",
+      "audience": "Berufspendler (30-55 Jahre)",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "format": "reel",
+      "owner": "B",
+      "publishDate": "2026-11-17",
+      "effort": {
+        "production": 60,
+        "variants": 10,
+        "coordination": 10,
+        "approval": 5,
+        "total": 85
+      },
+      "role": "priority",
+      "status": "geplant",
+      "evidence": "2 Einzelfunde – Hinweis, aber kein bestätigter Trend",
+      "findCount": 2,
+      "finds": [
+        {
+          "sourceId": "sim-tiktok-0001",
+          "channel": "tiktok",
+          "views": null
+        },
+        {
+          "sourceId": "sim-ig-0042",
+          "channel": "instagram",
+          "views": 1800
+        }
+      ],
+      "knownViews": null,
+      "rationale": "passt zum saisonalen Anlass „Dunkle Jahreszeit und Advent“; 2 Einzelfunde – Hinweis, aber kein bestätigter Trend (sim-tiktok-0001, sim-ig-0042); Zielgruppe: Berufspendler (30-55 Jahre); Reichweite der Funde: unbekannt"
+    },
+    {
+      "id": "2026-W47-02",
+      "topicId": "T6",
+      "topic": "Adventsaktion: kostenloser Brillen-Check",
+      "audience": "Bestandskundschaft",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "format": "image",
+      "owner": "A",
+      "publishDate": "2026-11-19",
+      "effort": {
+        "production": 25,
+        "variants": 10,
+        "coordination": 10,
+        "approval": 5,
+        "total": 50
+      },
+      "role": "priority",
+      "status": "geplant",
+      "evidence": "Keine Inspirationsfunde",
+      "findCount": 0,
+      "finds": [],
+      "knownViews": null,
+      "rationale": "passt zum saisonalen Anlass „Dunkle Jahreszeit und Advent“; Keine Inspirationsfunde; Zielgruppe: Bestandskundschaft; Reichweite der Funde: unbekannt"
+    },
+    {
+      "id": "2026-W47-03",
+      "topicId": "T2",
+      "topic": "Arbeitsplatzbrille: entspannter sehen am Bildschirm",
+      "audience": "Menschen mit viel Bildschirmarbeit",
+      "channels": [
+        "linkedin",
+        "facebook"
+      ],
+      "format": "carousel",
+      "owner": "B",
+      "publishDate": "2026-11-21",
+      "effort": {
+        "production": 45,
+        "variants": 10,
+        "coordination": 10,
+        "approval": 5,
+        "total": 70
+      },
+      "role": "priority",
+      "status": "geplant",
+      "evidence": "Einzelfund – kein bestätigter Trend",
+      "findCount": 1,
+      "finds": [
+        {
+          "sourceId": "sim-li-0007",
+          "channel": "linkedin",
+          "views": null
+        }
+      ],
+      "knownViews": null,
+      "rationale": "Einzelfund – kein bestätigter Trend (sim-li-0007); Zielgruppe: Menschen mit viel Bildschirmarbeit; Reichweite der Funde: unbekannt"
+    }
+  ],
+  "ideas": [
+    {
+      "id": "2026-W47-01",
+      "topicId": "T1",
+      "topic": "Sicher Auto fahren in der Dämmerung: Blendung reduzieren",
+      "audience": "Berufspendler (30-55 Jahre)",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "format": "reel",
+      "owner": "B",
+      "publishDate": "2026-11-17",
+      "effort": {
+        "production": 60,
+        "variants": 10,
+        "coordination": 10,
+        "approval": 5,
+        "total": 85
+      },
+      "role": "priority",
+      "status": "geplant",
+      "evidence": "2 Einzelfunde – Hinweis, aber kein bestätigter Trend",
+      "findCount": 2,
+      "finds": [
+        {
+          "sourceId": "sim-tiktok-0001",
+          "channel": "tiktok",
+          "views": null
+        },
+        {
+          "sourceId": "sim-ig-0042",
+          "channel": "instagram",
+          "views": 1800
+        }
+      ],
+      "knownViews": null,
+      "rationale": "passt zum saisonalen Anlass „Dunkle Jahreszeit und Advent“; 2 Einzelfunde – Hinweis, aber kein bestätigter Trend (sim-tiktok-0001, sim-ig-0042); Zielgruppe: Berufspendler (30-55 Jahre); Reichweite der Funde: unbekannt"
+    },
+    {
+      "id": "2026-W47-02",
+      "topicId": "T6",
+      "topic": "Adventsaktion: kostenloser Brillen-Check",
+      "audience": "Bestandskundschaft",
+      "channels": [
+        "instagram",
+        "facebook"
+      ],
+      "format": "image",
+      "owner": "A",
+      "publishDate": "2026-11-19",
+      "effort": {
+        "production": 25,
+        "variants": 10,
+        "coordination": 10,
+        "approval": 5,
+        "total": 50
+      },
+      "role": "priority",
+      "status": "geplant",
+      "evidence": "Keine Inspirationsfunde",
+      "findCount": 0,
+      "finds": [],
+      "knownViews": null,
+      "rationale": "passt zum saisonalen Anlass „Dunkle Jahreszeit und Advent“; Keine Inspirationsfunde; Zielgruppe: Bestandskundschaft; Reichweite der Funde: unbekannt"
+    },
+    {
+      "id": "2026-W47-03",
+      "topicId": "T2",
+      "topic": "Arbeitsplatzbrille: entspannter sehen am Bildschirm",
+      "audience": "Menschen mit viel Bildschirmarbeit",
+      "channels": [
+        "linkedin",
+        "facebook"
+      ],
+      "format": "carousel",
+      "owner": "B",
+      "publishDate": "2026-11-20",
+      "effort": {
+        "production": 45,
+        "variants": 10,
+        "coordination": 10,
+        "approval": 5,
+        "total": 70
+      },
+      "role": "reserve",
+      "status": "reserve",
+      "evidence": "Einzelfund – kein bestätigter Trend",
+      "findCount": 1,
+      "finds": [
+        {
+          "sourceId": "sim-li-0007",
+          "channel": "linkedin",
+          "views": null
+        }
+      ],
+      "knownViews": null,
+      "rationale": "Einzelfund – kein bestätigter Trend (sim-li-0007); Zielgruppe: Menschen mit viel Bildschirmarbeit; Reichweite der Funde: unbekannt; Umplanung: wegen Kapazität zur Reserve zurückgestuft"
+    },
+    {
+      "id": "2026-W47-04",
+      "topicId": "T3",
+      "topic": "Blick in die Werkstatt: So wird ein Glas eingeschliffen",
+      "audience": "Bestandskundschaft",
+      "channels": [
+        "instagram",
+        "tiktok"
+      ],
+      "format": "reel",
+      "owner": "A",
+      "publishDate": "2026-11-18",
+      "effort": {
+        "production": 60,
+        "variants": 10,
+        "coordination": 10,
+        "approval": 5,
+        "total": 85
+      },
+      "role": "reserve",
+      "status": "reserve",
+      "evidence": "Einzelfund – kein bestätigter Trend",
+      "findCount": 1,
+      "finds": [
+        {
+          "sourceId": "sim-ig-0051",
+          "channel": "instagram",
+          "views": null
+        }
+      ],
+      "knownViews": null,
+      "rationale": "Einzelfund – kein bestätigter Trend (sim-ig-0051); Zielgruppe: Bestandskundschaft; Reichweite der Funde: unbekannt"
+    },
+    {
+      "id": "2026-W47-05",
+      "topicId": "T5",
+      "topic": "Kurztipp: Brille richtig reinigen",
+      "audience": "Bestandskundschaft",
+      "channels": [
+        "instagram"
+      ],
+      "format": "story",
+      "owner": "B",
+      "publishDate": "2026-11-21",
+      "effort": {
+        "production": 15,
+        "variants": 0,
+        "coordination": 10,
+        "approval": 5,
+        "total": 30
+      },
+      "role": "priority",
+      "status": "geplant",
+      "evidence": "Einzelfund – kein bestätigter Trend",
+      "findCount": 1,
+      "finds": [
+        {
+          "sourceId": "sim-tiktok-0019",
+          "channel": "tiktok",
+          "views": 950
+        }
+      ],
+      "knownViews": 950,
+      "rationale": "Einzelfund – kein bestätigter Trend (sim-tiktok-0019); Zielgruppe: Bestandskundschaft; Reichweite der Funde: 950; Umplanung: als kleinere Alternative nachgerückt (30 Min.)"
+    }
+  ],
+  "loadBeforeReplan": [
+    {
+      "personId": "A",
+      "name": "Person A",
+      "budget": 90,
+      "planned": 50,
+      "remaining": 40,
+      "overloaded": false
+    },
+    {
+      "personId": "B",
+      "name": "Person B",
+      "budget": 150,
+      "planned": 155,
+      "remaining": -5,
+      "overloaded": true
+    }
+  ],
+  "load": [
+    {
+      "personId": "A",
+      "name": "Person A",
+      "budget": 90,
+      "planned": 50,
+      "remaining": 40,
+      "overloaded": false
+    },
+    {
+      "personId": "B",
+      "name": "Person B",
+      "budget": 150,
+      "planned": 115,
+      "remaining": 35,
+      "overloaded": false
+    }
+  ],
+  "warnings": [
+    {
+      "personName": "Person B",
+      "planned": 155,
+      "budget": 150,
+      "afterReplan": false
+    }
+  ],
+  "replanSteps": [
+    {
+      "kind": "swap",
+      "ideaId": "2026-W47-03",
+      "topic": "Arbeitsplatzbrille: entspannter sehen am Bildschirm",
+      "minutes": 70,
+      "reserveId": "2026-W47-05",
+      "reserveTopic": "Kurztipp: Brille richtig reinigen",
+      "reserveMinutes": 30,
+      "person": "Person B"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "post-2026-W47-01",
+    "ideaId": "2026-W47-01",
+    "title": "Sicher Auto fahren in der Dämmerung: Blendung reduzieren",
+    "text": "Abends im Auto und jedes entgegenkommende Licht blendet? Das muss nicht so bleiben.\n\nJetzt, wo es schon gegen fünf dunkel wird, hören wir das bei uns fast jeden Tag: Die Scheinwerfer der anderen blenden, und nach der Heimfahrt sind die Augen müde. Oft steckt etwas ganz Einfaches dahinter – eine nicht mehr passende Sehstärke, Kratzer auf den Gläsern oder Gläser ohne gute Entspiegelung. In unserem kurzen Video zeigt Ihnen Jana aus unserem Team drei Dinge, die Sie heute Abend selbst prüfen können. Und wenn Sie unsicher sind: Kommen Sie einfach vorbei, wir schauen gemeinsam drauf. Wichtig: Ein Sehtest bei uns ersetzt keine augenärztliche Untersuchung. Wenn Sie plötzlich schlechter sehen, gehen Sie bitte zeitnah zum Augenarzt.\n\nVereinbaren Sie Ihren persönlichen Sehtest – wir nehmen uns 30 Minuten Zeit für Sie: https://www.example.com/termin/sehtest",
+    "mediaRef": "media/2026-W47/blendung-reel-rohschnitt-v1.mp4",
+    "channels": [
+      "instagram",
+      "facebook"
+    ],
+    "publishDate": "2026-11-17",
+    "status": "handed_off",
+    "approval": {
+      "fingerprint": "c84a9c82f00f2abf56fcd155a9724aa8d8013dc2fa71902f296961fbf67aae2d",
+      "approvedBy": "Person B",
+      "approvedAt": "2026-11-11T22:56:31.521Z"
+    },
+    "history": [
+      "2026-11-11T22:56:31.447Z draft -> in_review",
+      "2026-11-11T22:56:31.521Z in_review -> approved (freigegeben von Person B)",
+      "2026-11-11T22:56:31.523Z approved -> handed_off"
+    ]
+  },
+  {
+    "id": "post-2026-W47-02",
+    "ideaId": "2026-W47-02",
+    "title": "Adventsaktion: kostenloser Brillen-Check",
+    "text": "Im Advent schauen wir uns Ihre Brille kostenlos an: Schrauben nachziehen, Sitz anpassen, Gläser reinigen. Einfach vorbeikommen! Neu: jetzt auch samstags.",
+    "mediaRef": "media/2026-W47/advent-brillencheck-v1.jpg",
+    "channels": [
+      "instagram",
+      "facebook"
+    ],
+    "publishDate": "2026-11-19",
+    "status": "in_review",
+    "approval": null,
+    "history": [
+      "2026-11-11T22:56:31.447Z draft -> in_review",
+      "2026-11-11T22:56:31.541Z in_review -> approved (freigegeben von Person A)",
+      "2026-11-11T22:56:31.544Z approved -> in_review (Inhalt nach Freigabe geändert, erneute Prüfung nötig)"
+    ]
+  },
+  {
+    "id": "post-2026-W47-05",
+    "ideaId": "2026-W47-05",
+    "title": "Kurztipp: Brille richtig reinigen",
+    "text": "Kurzer Tipp für klare Sicht: So reinigen Sie Ihre Brille richtig – ohne Kratzer.",
+    "mediaRef": null,
+    "channels": [
+      "instagram"
+    ],
+    "publishDate": "2026-11-21",
+    "status": "approved",
+    "approval": {
+      "fingerprint": "71b0bf52fea5d9083618593182bd7cbe6a6bdf64e52c378b8528c4eda299c352",
+      "approvedBy": "Person B",
+      "approvedAt": "2026-11-11T22:56:31.523Z"
+    },
+    "history": [
+      "2026-11-11T22:56:31.447Z draft -> in_review",
+      "2026-11-11T22:56:31.523Z in_review -> approved (freigegeben von Person B)"
+    ]
+  }
+]
